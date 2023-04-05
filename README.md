@@ -1,7 +1,10 @@
 # General relativistic precession and the long-term stability of the solar system
 [![DOI](https://zenodo.org/badge/597187040.svg)](https://zenodo.org/badge/latestdoi/597187040)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7765188.svg)](https://doi.org/10.5281/zenodo.7765188)
 
 A repository containing code to reproduce figures and data for [Brown &amp; Rein (2023)](https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stad719/7075888?guestAccessKey=7344134d-214e-41e5-ae56-cc96c317207d).
+
+The full SimulationArcive dataset can be found on [Zenodo](https://doi.org/10.5281/zenodo.7765188).
 
 ## Abstract
 The long-term evolution of the solar system is chaotic. 
